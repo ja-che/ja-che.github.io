@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Jérôme-Alexis Chevalier
+
+~~~
+{}{img_left}{files/photo.jpg}{alt text}{117}{156}
+Post-doc in Machine Learning \n
+Inria Saclay Île-de-France \n
+E-mail: /jerome-alexis.chevalier/ \[@\] inria \[DOT\] fr
+~~~
+
+== About me
+I am currently a post-doc in Machine Learning at Inria Saclay Île-de-France. Following my PhD. research, I am lucky to work under the supervision of [https://pages.saclay.inria.fr/bertrand.thirion/ Bertrand Thirion] and [http://josephsalmon.eu/ Joseph Salmon]. \n
+My research focus on handling uncertainty in the challenging context of high dimensional regression problem. The primary field of application is neuro-imaging.
+
+During my PhD., I had the chance to be a member of the [https://team.inria.fr/parietal/ parietal team] of the [https://www.inria.fr/fr/centre-inria-saclay-ile-de-france Inria Saclay-Île-de-France Research Centre]. \n
+I am thankfull to the [https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx NeuroSpin Research Center] and to [https://www.telecom-paris.fr/ Telecom Paris] for hosting me during the thesis, allowing a better collaboration with my supervisors. \n
+I am also thankfull to the [https://digicosme.cnrs.fr/en/digicosme-paris-saclay-english/ Labex Digicosme] and to the [https://www.universite-paris-saclay.fr/ Université Paris-Saclay] who funded my thesis.
+
+
+Before my PhD., I graduated from [https://crl.u-paris.fr/ Université Paris-Diderot] and [https://enseirb-matmeca.bordeaux-inp.fr/ ENSEIRB-MATMECA]. \n
+More information about my background can be found on my [\/files/pdf/cv.pdf resume].
+
+== Research Interests
+Though I am interested in Machine Learning and Statistics in general, my main interests are:  
+- Statistical methods in high dimension
+- Clustering methods
+- Ensembling methods
+
+My list of publication is available [research.html here].

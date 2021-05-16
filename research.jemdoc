@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+
+= PhD. Thesis
+
+- *Statistical control of sparse models in high dimension* \n
+  +Jerôme-Alexis Chevalier+ ~~\[[\/files/pdf/phd_thesis.pdf masnuscript]\]
+
+
+= Publications
+
+- *Decoding with confidence: Statistical control on decoder maps* (NeuroImage Journal, 2021) \n
+  +Jerôme-Alexis Chevalier+, Tuan-Binh Nguyen, Gaël Varoquaux, Joseph Salmon, Bertrand Thirion ~~\[[\/files/pdf/paper_NeuroImage_2021.pdf paper]\]
+
+- *Statistical control for spatio-temporal MEG/EEG source imaging with desparsified multi-task Lasso* (NeurIPS 2020) \n
+  +Jerôme-Alexis Chevalier+, Alexandre Gramfort, Joseph Salmon, Bertrand Thirion ~~\[[\/files/pdf/paper_NeurIPS_2020.pdf paper]\]
+
+- *Aggregation of Multiple Knockoffs* (ICML 2020) \n
+  Tuan-Binh Nguyen, +Jerôme-Alexis Chevalier+,  Bertrand Thirion, Sylvain Arlot ~~\[[\/files/pdf/paper_ICML_2020.pdf paper]\]
+
+- *Ecko: Ensemble of clustered knockoffs for robust multivariate inference on fMRI data* (IPMI 2019) \n
+  Tuan-Binh Nguyen\*, +Jerôme-Alexis Chevalier\*+,  Bertrand Thirion ~~\[[\/files/pdf/paper_IPMI_2019.pdf paper]\]
+
+- *Statistical inference with ensemble of clustered desparsified lasso* (MICCAI 2018) \n
+  +Jerôme-Alexis Chevalier+, Joseph Salmon, Bertrand Thirion ~~\[[\/files/pdf/paper_MICCAI_2018.pdf paper]\]
