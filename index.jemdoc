@@ -21,9 +21,8 @@ Before my PhD., I graduated from [https://crl.u-paris.fr/ Université Paris-Dide
 More information about my background can be found on my [\/files/pdf/cv.pdf resume].
 
 == Research Interests
-Though I am interested in Machine Learning and Statistics in general, my main interests are:  
-- Statistical methods in high dimension
-- Clustering methods
-- Ensembling methods
+Though I am interested in Machine Learning and Statistics in general, my main interests are statistical methods in high dimension, clustering methods and ensembling methods.
 
-My list of publication is available [research.html here].
+I also enjoy to code in Python on open source projects: I am one of the lead developers of [https://ja-che.github.io/hidimstat/ HiDimStat] that provides high-dimensional statistical inference tools and a contributor of [https://nilearn.github.io/ Nilearn] which is a reference package for the analysis of fMRI data.
+
+To benefit from feedbacks from the Machine Learning and neuro-scientific community, I have published several papers in conferences and journals, my publications are all available [research.html here].
